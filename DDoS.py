@@ -12,7 +12,7 @@ def restart_program():
 
 
 print("DDoS mode loaded")
-target = "192.168.1.1"                              # Your default router ip. You can also insert domain names here.
+target = "76.10.203.122"                              # Don't Try To Boot This It Isn't My IP It's My School's IP
 port = 80                                           # Attacking HTTP
 conn = 10000
 print("[Ip is locked]")
